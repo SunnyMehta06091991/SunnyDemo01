@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45546" started-at="2018-08-20T18:26:27Z" finished-at="2018-08-20T18:27:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45546" started-at="2018-08-20T18:26:27Z" finished-at="2018-08-20T18:27:13Z">
+      <class name="com.qa.test.LoginTest">
+        <test-method status="PASS" signature="intialisation()[pri:0, instance:com.qa.test.LoginTest@e45f292]" name="intialisation" is-config="true" duration-ms="8973" started-at="2018-08-20T23:56:27Z" finished-at="2018-08-20T23:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialisation -->
+        <test-method status="PASS" signature="crmLogoTest()[pri:0, instance:com.qa.test.LoginTest@e45f292]" name="crmLogoTest" duration-ms="80" started-at="2018-08-20T23:56:36Z" finished-at="2018-08-20T23:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.LoginTest@e45f292]" name="teardown" is-config="true" duration-ms="789" started-at="2018-08-20T23:56:36Z" finished-at="2018-08-20T23:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="intialisation()[pri:0, instance:com.qa.test.LoginTest@e45f292]" name="intialisation" is-config="true" duration-ms="9790" started-at="2018-08-20T23:56:37Z" finished-at="2018-08-20T23:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialisation -->
+        <test-method status="PASS" signature="validateLoginPageTitleTest()[pri:1, instance:com.qa.test.LoginTest@e45f292]" name="validateLoginPageTitleTest" duration-ms="16" started-at="2018-08-20T23:56:47Z" finished-at="2018-08-20T23:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.LoginTest@e45f292]" name="teardown" is-config="true" duration-ms="782" started-at="2018-08-20T23:56:47Z" finished-at="2018-08-20T23:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="intialisation()[pri:0, instance:com.qa.test.LoginTest@e45f292]" name="intialisation" is-config="true" duration-ms="8930" started-at="2018-08-20T23:56:48Z" finished-at="2018-08-20T23:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialisation -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.qa.test.LoginTest@e45f292]" name="loginTest" duration-ms="15192" started-at="2018-08-20T23:56:57Z" finished-at="2018-08-20T23:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.test.LoginTest@e45f292]" name="teardown" is-config="true" duration-ms="945" started-at="2018-08-20T23:57:12Z" finished-at="2018-08-20T23:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
